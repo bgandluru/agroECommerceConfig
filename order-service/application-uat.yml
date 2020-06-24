@@ -1,2 +1,5 @@
-spring.application.name=order-service
-spring.server.port=9001
+spring:
+  application:
+    name: order-service
+server:
+  port: 9001
